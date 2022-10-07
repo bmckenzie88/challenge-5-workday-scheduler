@@ -13,9 +13,9 @@ N/A
 
 To use the scheduler, simply type in the event in the main text area located in the center of each time-block. Clicking the save icon on the right of each time-block will save the event for that row into local storage so that it appears upon page reload.
 
-URL: https://bmckenzie88.github.io/challenge-4-code-quiz/
+URL: https://bmckenzie88.github.io/challenge-5-workday-scheduler/
 
-![work-day-scheduler-screenshot](./assets/images/deployed-quiz-screenshot.jpg)
+![work-day-scheduler-screenshot](./assets/images/work-day-scheduler-screenshot.png)
 
 
 ## Credits
